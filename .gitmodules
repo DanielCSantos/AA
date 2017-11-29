@@ -1,0 +1,3 @@
+[submodule "ISEL-LEIM-AA"]
+	path = ISEL-LEIM-AA
+	url = https://github.com/andrewfonseca/ISEL-LEIM-AA.git
